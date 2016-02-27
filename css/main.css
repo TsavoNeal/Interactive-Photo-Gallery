@@ -148,6 +148,8 @@ ul li:nth-child(4n) {
 		margin-top: 20%;
 	}	
 
+}
+
 @media (max-width: 979px) {
 
 	ul li {
